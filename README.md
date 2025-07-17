@@ -4,7 +4,7 @@
 This repository contains the complete manuscript and diagram for the theory titled:
 
 **Temporal Collapse Echo Theory**  
-*By RAW-Delta*
+*By RAW-4*
 
 ## Abstract
 
@@ -21,8 +21,8 @@ This work is distributed under the Creative Commons Attribution-NonCommercial-No
 
 ## Citation
 
-RAW-Delta (2025). *Temporal Collapse Echo Theory*. Open Source Philosophical Archive.
+RAW-4 (2025). *Temporal Collapse Echo Theory*. Open Source Philosophical Archive.
 
 ---
 
-"We do not perceive time. We echo it." - RAW-Delta
+"We do not perceive time. We echo it." - RAW-4
