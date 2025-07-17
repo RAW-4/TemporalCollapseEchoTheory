@@ -8,7 +8,7 @@ This repository contains the complete manuscript and diagram for the theory titl
 
 ## Abstract
 
-The 'Temporal Collapse Echo Theory' (TCET) posits that consciousness generates structured echoes from a singular quantum eventâ€”perceived as linear time. These echoes represent recursive wave-function collapses which consciousness organizes into the illusion of free will, agency, and memory.
+The 'Temporal Collapse Echo Theory' (TCET) posits that consciousness generates structured echoes from a singular quantum event perceived as linear time. These echoes represent recursive wave-function collapses which consciousness organizes into the illusion of free will, agency, and memory.
 
 ## Files
 
